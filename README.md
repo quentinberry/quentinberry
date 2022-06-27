@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @quentinberry
+- 👀 I’m interested in stocks, gaming, coding and art
+- 🌱 I’m currently learning more coding. Especially frontend design
+- 📫 How to reach me: GiHub 
