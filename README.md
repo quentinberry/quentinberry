@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Quentin</h1>
 <h3 align="center">a Berlin based Software Engineer</h3>
 
-- 🔭 I’m currently working on [My personal Website](https://github.com/quentinberry/personalWebsite)
+- 🔭 I’m currently working on a micoservice with TypeScript
 
-- 🌱 I’m currently learning **React, JavaScript, GoLang**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://quentinberry.github.io/personalWebsite/](https://quentinberry.github.io/personalWebsite/)
 
